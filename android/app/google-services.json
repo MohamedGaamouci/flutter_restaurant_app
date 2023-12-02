@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "16079942192",
+    "project_id": "deleveryapp-eab92",
+    "storage_bucket": "deleveryapp-eab92.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:16079942192:android:238b0171638b45bf3cb3f5",
+        "android_client_info": {
+          "package_name": "com.example.offi_memoire"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "16079942192-oiq6jt5g7t05j638ng4emeibadn294tc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQpA0JBll93pk-FqkbOiwgkBEEykc7Njs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "16079942192-oiq6jt5g7t05j638ng4emeibadn294tc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
